@@ -42,7 +42,7 @@ Attachments:
 - https://github.com/aibos/example/pull/123
 - [Insert screenshot or document]
 
-Next scheduled work time: 09:00-17:00
+Next scheduled work date and time: 1st Oct, 09:00-17:30
 Next tasks:
 - Additional bug fix testing
 - Prototype development for new feature
