@@ -1,10 +1,8 @@
 # Working Hours and Punctuality Guidelines
 
-- Salary Calculation: Your salary is calculated based on the schedule you have registered. This means that even if you arrive earlier or stay later than your registered hours, no additional payment will be made.
-- Cash Preparation: Daily salary payments are prepared according to the registered work schedule, so arriving too early or staying late will not result in extra compensation.
-- Punctuality: Punctuality is crucial. Arriving late can negatively impact your credibility and reliability. We require you to clock in exactly at your scheduled start time.
-- Weekly Schedule Changes: If there are any significant changes to your overall schedule for the coming week, please notify us by Sunday.
-- Unexpected Circumstances: In case of an urgent matter, please notify us the day before.
+- Punctuality: Adhering to your schedule is critical to maintaining your reliability. We expect you to work according to the hours you’ve registered. This includes not only avoiding tardiness but also ensuring that you don't significantly extend your scheduled working hours.
+- Schedule Changes: If there are significant changes to your overall schedule for the following week, please notify us by Sunday.
+- Urgent Matters: In case of urgent matters, please inform us the day before.
 
 > **_NOTE:_** Each member has set specific working hours on their schedule, so it is important that you arrive at the office within those registered hours. Arriving late can not only slow down the progress of our projects but also impact your credibility as a professional and as a valued member of AIBOS. We place a strong emphasis on maintaining trust, and this plays a significant role in your performance evaluation.
 
