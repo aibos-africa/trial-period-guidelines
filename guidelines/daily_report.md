@@ -29,7 +29,7 @@ Today's tasks:
 
 > **_NOTE:_** Provide your next scheduled work time and the tasks you will focus on. This ensures a smooth handoff and planning for the next shift.
 
-> **_NOTE:_** Creating a report takes time, so make sure to create it well before the end of your work hours.
+> **_NOTE:_** Write a daily report within one hour after the end of each workday. The more detailed the report, the higher the evaluation.
 
 ```md
 End time: 17:30
