@@ -1,6 +1,6 @@
 # Daily Report Guidelines
 
-Daily reports are essential for tracking progress, sharing updates, and ensuring a smooth handoff between shifts. This document provides a template for daily reports and guidelines for creating reports.
+Daily reports are essential for tracking progress, sharing updates, and ensuring a smooth handoff between shifts. This document provides a template for daily reports and guidelines for creating reports. **We prohibit editing daily report.**
 
 - [Daily Report (Sample)](#daily-report-sample)
   - [Start of Work Report:](#start-of-work-report)
