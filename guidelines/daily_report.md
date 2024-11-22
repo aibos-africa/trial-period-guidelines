@@ -15,7 +15,8 @@ Daily reports are essential for tracking progress, sharing updates, and ensuring
 
 > **_NOTE:_** When starting work, provide your start time and list the tasks you will work on today.
 
-```
+```md
+@YourManager
 Start time: 09:00
 Today's tasks:
 - Fix frontend components
@@ -32,6 +33,7 @@ Today's tasks:
 > **_NOTE:_** Write a daily report within one hour after the end of each workday. The more detailed the report, the higher the evaluation.
 
 ```md
+@YourManager
 End time: 17:30
 Tasks completed and results:
 - Fixed frontend components
@@ -54,6 +56,7 @@ Next tasks:
 ### Start of Work Report:
 
 ```
+@YourManager
 Start time:
 Today's tasks:
 -
@@ -61,6 +64,7 @@ Today's tasks:
 
 ### End of Work Report:
 ```
+@YourManager
 End time:
 Tasks completed and results:
 -
