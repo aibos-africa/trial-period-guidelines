@@ -14,6 +14,7 @@ Daily reports are essential for tracking progress, sharing updates, and ensuring
 ### Start of Work Report:
 
 > **_NOTE:_** When starting work, provide your start time and list the tasks you will work on today. The daily report has to be submitted before 9:00 whether you work at office or remotely.
+> > **_NOTE:_** Please do not edit your post in Microsoft Teams. If timestamp changes, we regard the time after editing as the start time, which will consequence your loss.
 
 ```md
 @YourManager
